@@ -1,6 +1,5 @@
 package core.usecase
 
-import com.sulkyloops.wedgebackend.core.base.UseCase
 import io.reactivex.Flowable
 import io.reactivex.Scheduler
 import io.reactivex.schedulers.Schedulers

@@ -1,4 +1,4 @@
-package com.sulkyloops.wedgebackend.core.base
+package core.usecase
 
 import io.reactivex.Scheduler
 import io.reactivex.Single

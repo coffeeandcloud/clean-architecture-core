@@ -1,6 +1,6 @@
 package samples
 
-import com.sulkyloops.wedgebackend.core.base.SingleUseCase
+import core.usecase.SingleUseCase
 import io.reactivex.Scheduler
 import io.reactivex.Single
 

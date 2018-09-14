@@ -6,7 +6,7 @@
 
     <groupId>imagiraffe</groupId>
     <artifactId>clean-architecture-core</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.1</version>
 
 
     <distributionManagement>
