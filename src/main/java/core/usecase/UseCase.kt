@@ -1,7 +1,4 @@
-package com.sulkyloops.wedgebackend.core.base
-
-import io.reactivex.Scheduler
-import io.reactivex.schedulers.Schedulers
+package core.usecase
 
 /**
  * Base abstract UseCase class with input parameter I and
